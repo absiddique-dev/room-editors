@@ -7,7 +7,7 @@ const Clients = () => {
       <div className="bg-white w-[70px] h-full"></div>
 
       {/* Main Content */}
-      <div className="bg-[#F3F6FC] h-full w-2/3 px-12 flex flex-col justify-center gap-y-4">
+      <div className="bg-[#b7d8f0] h-full w-2/3 px-12 flex flex-col justify-center gap-y-4">
         {/* Header */}
         <div className="flex items-center gap-x-4">
           <span className="text-[10px] uppercase font-thin tracking-[5px] text-gray-500 text-nowrap">

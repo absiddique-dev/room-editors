@@ -17,7 +17,7 @@ export default function Products() {
             12, Dec 2024
           </span>
         </div>
-        <div className="w-full h-[480px] rounded bg-[url('/products/p-1.png')] bg-cover flex flex-col items-center justify-between py-11 transition-transform duration-300 hover:translate-y-[80px]">
+        <div className="w-full h-[480px] rounded bg-[url('/products/p-4.png')] bg-cover flex flex-col items-center justify-between py-11 transition-transform duration-300 hover:translate-y-[80px]">
           <div className="flex flex-col items-center">
             <span className="text-[10px] uppercase font-thin tracking-[5px] text-white">
               Lokhara, Guwahati
@@ -30,7 +30,7 @@ export default function Products() {
             12, Dec 2024
           </span>
         </div>
-        <div className="w-full h-[480px] rounded mt-[80px] bg-[url('/products/p-1.png')] bg-cover flex flex-col items-center justify-between py-11 transition-transform duration-300 hover:-translate-y-2">
+        <div className="w-full h-[480px] rounded mt-[80px] bg-[url('/products/p-3.png')] bg-cover flex flex-col items-center justify-between py-11 transition-transform duration-300 hover:-translate-y-2">
           <div className="flex flex-col items-center">
             <span className="text-[10px] uppercase font-thin tracking-[5px] text-white">
               Lokhara, Guwahati
@@ -45,7 +45,7 @@ export default function Products() {
         </div>
       </div>
       <div className="w-screen bg-white px-[80px] grid grid-cols-3 gap-5">
-        <div className="w-full h-[480px] rounded mt-[-80px] bg-[url('/products/p-1.png')] bg-cover flex flex-col items-center justify-between py-11 transition-transform duration-300 hover:translate-y-2">
+        <div className="w-full h-[480px] rounded mt-[-80px] bg-[url('/products/p-5.png')] bg-cover flex flex-col items-center justify-between py-11 transition-transform duration-300 hover:translate-y-2">
           <div className="flex flex-col items-center">
             <span className="text-[10px] uppercase font-thin tracking-[5px] text-white">
               Lokhara, Guwahati
@@ -58,7 +58,7 @@ export default function Products() {
             12, Dec 2024
           </span>
         </div>
-        <div className="w-full h-[480px] rounded bg-[url('/products/p-1.png')] bg-cover flex flex-col items-center justify-between py-11 transition-transform duration-300 hover:-translate-y-[80px]">
+        <div className="w-full h-[480px] rounded bg-[url('/products/p-6.png')] bg-cover flex flex-col items-center justify-between py-11 transition-transform duration-300 hover:-translate-y-[80px]">
           <div className="flex flex-col items-center">
             <span className="text-[10px] uppercase font-thin tracking-[5px] text-white">
               Lokhara, Guwahati
@@ -71,7 +71,7 @@ export default function Products() {
             12, Dec 2024
           </span>
         </div>
-        <div className="w-full h-[480px] rounded mt-[-80px] bg-[url('/products/p-1.png')] bg-cover flex flex-col items-center justify-between py-11 transition-transform duration-300 hover:translate-y-2">
+        <div className="w-full h-[480px] rounded mt-[-80px] bg-[url('/products/p-9.png')] bg-cover flex flex-col items-center justify-between py-11 transition-transform duration-300 hover:translate-y-2">
           <div className="flex flex-col items-center">
             <span className="text-[10px] uppercase font-thin tracking-[5px] text-white">
               Lokhara, Guwahati

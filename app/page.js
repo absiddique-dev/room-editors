@@ -4,8 +4,10 @@ import Dimpu from "./components/Dimpu";
 import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import Nav from "./components/Nav";
+import OurTeam from "./components/OurTeam";
 import Products from "./components/Products";
 import ServicesSection from "./components/ServicesSection";
+import WhyUs from "./components/WhyUs";
 import Works from "./components/Works";
 
 export default function Home() {
@@ -19,6 +21,8 @@ export default function Home() {
       <Works />
       <Products />
       <Dimpu />
+      <OurTeam />
+      <WhyUs />
       <Footer />
     </div>
   );

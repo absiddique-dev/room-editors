@@ -3,8 +3,8 @@ import React from "react";
 const Dimpu = () => {
   return (
     <div className="h-[80vh] bg-white flex items-center">
-      <div className="w-full h-[60vh] bg-[#090B19] px-[80px] grid grid-cols-3 justify-center items-center gap-x-3">
-        <div className="w-full aspect-square bg-[url('/dimpu.png')] bg-cover rounded-xl"></div>
+      <div className="w-full bg-[#090B19] px-[80px] grid grid-cols-3 justify-center items-center gap-x-3 py-11">
+        <div className="w-[320px] aspect-square bg-[url('/dimpu.png')] bg-cover rounded-xl"></div>
         <div className="flex-1 h-full flex flex-col justify-center gap-y-3 col-span-2">
           <span className="text-[10px] uppercase font-thin tracking-[5px] text-gray-500">
             Words from

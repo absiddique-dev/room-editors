@@ -47,19 +47,19 @@ const Footer = () => {
           <div className="space-y-6 text-gray-400">
             <a href="#" className="flex items-center gap-3 hover:text-gray-300">
               <Instagram size={20} className="text-gray-400" />
-              <span>@nside</span>
+              <span className="text-sm font-thin">@room.editors</span>
             </a>
             <a href="#" className="flex items-center gap-3 hover:text-gray-300">
               <Facebook size={20} className="text-gray-400" />
-              <span>@nside</span>
+              <span className="text-sm font-thin">@room.editors</span>
             </a>
             <a href="#" className="flex items-center gap-3 hover:text-gray-300">
               <Linkedin size={20} className="text-gray-400" />
-              <span>@nside</span>
+              <span className="text-sm font-thin">@room.editors</span>
             </a>
             <a href="#" className="flex items-center gap-3 hover:text-gray-300">
               <Youtube size={20} className="text-gray-400" />
-              <span>@nside</span>
+              <span className="text-sm font-thin">@room.editors</span>
             </a>
           </div>
         </div>

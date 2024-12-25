@@ -3,7 +3,7 @@ import React from "react";
 const Hero = () => {
   return (
     <div className="w-full h-[80vh] bg-[url('/hero-background.png')] bg-cover relative flex justify-start items-center">
-      <div className=" absolute bg-black w-full h-full opacity-[0.4]"></div>
+      <div className=" absolute bg-black w-full h-full opacity-[0.6]"></div>
       <div className="flex flex-col z-[10] gap-y-11 px-[80px]">
         <span className="text-[10px] uppercase font-thin tracking-[5px]">
           Inside Innovation
